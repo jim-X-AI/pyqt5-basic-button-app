@@ -1,23 +1,4 @@
 
-
-### 📁 Repository Name Suggestion
-
-Since this is a basic PyQt5 app with one button and a label (and a menu), here are some good repo name options:
-
-- `pyqt5-basic-button-app`
-- `pyqt5-hello-world`
-- `pyqt5-gui-demo`
-- `simple-pyqt5-button-app`
-
-Let’s go with: **`pyqt5-basic-button-app`**
-
----
-
-## 📄 README.md
-
-Here's a complete and professional **README.md** file tailored to your project:
-
-```markdown
 # PyQt5 Basic Button App
 
 A minimal PyQt5-based desktop application featuring a button and a label. This project serves as a starting point or beginner-friendly template for building PyQt5 applications.
